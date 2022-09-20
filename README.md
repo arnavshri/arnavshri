@@ -15,11 +15,14 @@
 
 <h3 align="left">📳 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnav_shri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arnavshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavshri" height="30" width="40" /></a>
-<a href="https://instagram.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnav_shri" height="30" width="40" /></a>
+<a href="https://twitter.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/arnavshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavshri" height="30" width="40" /></a> &nbsp;
+<a href="https://instagram.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp; <img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>&nbsp; <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>  &nbsp; <img src="https://img.icons8.com/nolan/64/arduino.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp; <img src="https://img.icons8.com/nolan/64/unity.png"/> &nbsp; <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp; <img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>&nbsp; <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>  &nbsp; <img src="https://img.icons8.com/nolan/64/arduino.png"/>&nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp; <img src="https://img.icons8.com/nolan/64/unity.png"/> &nbsp; <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/> &nbsp; <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+</br>
+</br>
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavshri&show_icons=true&theme=synthwave)
