@@ -1,6 +1,6 @@
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" width=400>
 <h1 align="center">Hi 👋, I'm Arnav Shrivastava</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavshri&label=Profile%20views&color=0e75b6&style=flat" alt="arnavshri" /> </p>
 
