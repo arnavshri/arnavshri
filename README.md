@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Arnav Shrivastava</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
 
