@@ -1,4 +1,4 @@
-<img align="center" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  width=400>
+<img align="center" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400">
 <h1 align="center">Hi 👋, I'm Arnav Shrivastava</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
 
