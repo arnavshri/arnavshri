@@ -17,7 +17,6 @@
 <a href="https://twitter.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/arnavshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavshri" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
-<a href="https://x.com/arnav_shri" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
 </p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
