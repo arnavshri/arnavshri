@@ -15,7 +15,8 @@
 
 <h3 align="left">📳 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arnav_shri" target="blank"><img align="center" src="![image](https://github.com/arnavshri/arnavshri/assets/76416960/b6ce8145-7f02-486d-910e-1c4ae1f6cde9)" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/arnav_shri" target="blank"><img align="center" src="![image](![image](https://github.com/user-attachments/assets/3956e9a3-2679-4434-a1fe-64afa957235e)
+)" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
 <a href="https://linkedin.com/in/arnavshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavshri" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/arnav_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnav_shri" height="30" width="40" /></a> &nbsp;
 </p>
